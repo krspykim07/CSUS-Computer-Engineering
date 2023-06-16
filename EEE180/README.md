@@ -5,9 +5,7 @@
 Course: EEE180 Signal and Systems Lectures: MWF 8:00 a.m.-8:50 a.m. <br />
 Monday - RVR 1006, Wednesday, Friday -Online <br />
 Instructor: Dr. Jing Pang <br />
-Email: jpang@csus.edu <br />
 Office Hours: Wednesday 10:50 a.m. – 1:30 p.m. or by Appointment <br />
-Office Hour Zoom Link: https://csus.zoom.us/j/82925903338 <br />
 
 ### Course Description:
 Rigorous development of the fundamental relationships governing time-domain and frequency-domain analysis of linear continuous-time and discrete-time systems. Topics include Fourier, Laplace, and z-transforms, sampling theorem, modulation, system stability, and digital filters.
