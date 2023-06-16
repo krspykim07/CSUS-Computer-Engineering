@@ -1,42 +1,45 @@
+
 # EEE180 - Signal and Systems
 
-Syllabus for Spring 2023
-Course: EEE180 Signal and Systems Lectures: MWF 8:00 a.m.-8:50 a.m.
-Monday - RVR 1006, Wednesday, Friday -Online
-Instructor: Dr. Jing Pang
-Email: jpang@csus.edu
-Office Hours: Wednesday 10:50 a.m. – 1:30 p.m. or by Appointment
-Office Hour Zoom Link: https://csus.zoom.us/j/82925903338
+## Syllabus for Spring 2023
+Course: EEE180 Signal and Systems Lectures: MWF 8:00 a.m.-8:50 a.m. <br />
+Monday - RVR 1006, Wednesday, Friday -Online <br />
+Instructor: Dr. Jing Pang <br />
+Email: jpang@csus.edu <br />
+Office Hours: Wednesday 10:50 a.m. – 1:30 p.m. or by Appointment <br />
+Office Hour Zoom Link: https://csus.zoom.us/j/82925903338 <br />
 
-Course Description:
+### Course Description:
 Rigorous development of the fundamental relationships governing time-domain and frequency-domain analysis of linear continuous-time and discrete-time systems. Topics include Fourier, Laplace, and z-transforms, sampling theorem, modulation, system stability, and digital filters.
 
-Prerequisite:
-  MATH 45, EEE 117; EEE 117 may be taken concurrently.
+### Prerequisite:
+MATH 45, EEE 117; EEE 117 may be taken concurrently.
 
-Textbook:
-Lathi, B. P., Signal Processing and Linear Systems, New York: Oxford University Press, 1998.
+### Textbook:
+<pre>Lathi, B. P., Signal Processing and Linear Systems, New York: Oxford University Press, 1998.</pre> <br />
 Learning Outcomes:
 By the end of the course, you can
-  • find the output of a linear, time-invariant, continuous-time system for a given input and initial conditions.
-  • find the output of a linear, time-invariant, discrete-time system for a given input and initial conditions.
-  • design a realization of a linear, time-invariant, continuous-time system having a desired system transfer function.
-  • design a realization of a linear, time-invariant, discrete-time system having a desired system transfer function.
-  • determine the effect on a signal’s frequency spectrum of passing the signal through a linear, time-invariant, continuous-time system
+- find the output of a linear, time-invariant, continuous-time system for a given input and initial conditions.
+- find the output of a linear, time-invariant, discrete-time system for a given input and initial conditions.
+- design a realization of a linear, time-invariant, continuous-time system having a desired system transfer function.
+- design a realization of a linear, time-invariant, discrete-time system having a desired system transfer function.
+- determine the effect on a signal’s frequency spectrum of passing the signal through a linear, time-invariant, continuous-time system
 
-Grading:
+### Grading:
+<pre>
 Homework 15%
 Midterm1 25%
 Midterm 2 25%
-
 Final (Comprehensive) 35%
-A : ≥ 92%   A-: ≥ 90%
+
+A : ≥ 92%	  A-: ≥ 90%
 B+: ≥ 85%   B-: ≥ 80%   B : ≥ 82%
 C+: ≥ 75%   C : ≥ 72%   C-: ≥ 70%
 D+: ≥ 65%   D : ≥ 62%   D-: ≥ 60%
 F : < 60%
-
-Class Schedule:
+</pre>
+### Class Schedule:
+<pre>
 Weeks              Dates                            Topics                                          Reading Assignments
 Week 1      Jan. 23 – Jan. 27       Introduction to Signals and Systems                         Background; Chap. 1, Pages 1 ~ 96
 Week 2      Jan. 30 – Feb. 3        Discrete-time signals and systems                           Chap. 8, Pages 540 ~ 569
@@ -61,12 +64,13 @@ Week 13     Apr. 24 – Apr. 28       Continuous-time signal analysis: Fourier t
 Week 14     May 1   – May 5         Frequency response of an LTIC system                        Chap. 7, Pages 471 ~ 476
 Week 15     May 8   – May 11        Sampling                                                    Chap 5. Pages 319 ~ 330
 Week 16     May 15  – May 19        Final Exam
-
-Course Policy:
+</pre>
+### Course Policy:
 1. No makeup exam.
 2. Homework: Homework assignments will be completed online using Canvas Assignments in the course Canvas site. Homework problems shall either be from the textbook or created by the instructor. Most homework assignments are due one week later. There is no time limit on completing the homework assignment as long as you complete the homework by the due date.
 3. You are responsible for all the materials presented and announcements made in class.
 If you have to miss a class, be sure to get the notes from another class member. This includes information about announcements or exams.
 4. For Policy on Academic Integrity refer to
-https://www.csus.edu/umanual/student/stu-100.htm
+https://www.csus.edu/umanual/student/stu-100.htm <br />
+
 This syllabus is tentative and it is subject to change at the instructor's discretion
