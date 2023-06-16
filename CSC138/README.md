@@ -51,6 +51,7 @@ security defense mechanisms and countermeasures.
 13. Analyze network traffic using tools like Wireshark.
 
 ### Course Policies:
+<pre>
 Tentative Grading Policy:
     Middle-quiz/exam + Final-quiz/exam 25% + 30%
     Wireshark Labs 20%
@@ -63,6 +64,7 @@ Grading Breakdown (%):
     B = 83-86 D = 63-66
     B- = 80-82 D- = 60-62
     C+ = 77-79 F = 59 or below
+</pre>
 
 Students are required to keep backup (machine-readable) copies of all submitted work, and
 also to keep all returned (graded) work, until after final grades are posted.
@@ -215,5 +217,5 @@ Week        Topics and Major Content                    Assignments
             - link virtualization: MPLS
             - data center networking
             - a day in the life of a web request
-
+</pre>
 Security will be introduced when and where related to the covered topics.
