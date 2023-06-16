@@ -12,17 +12,17 @@ Course Description:
 Rigorous development of the fundamental relationships governing time-domain and frequency-domain analysis of linear continuous-time and discrete-time systems. Topics include Fourier, Laplace, and z-transforms, sampling theorem, modulation, system stability, and digital filters.
 
 Prerequisite:
-• MATH 45, EEE 117; EEE 117 may be taken concurrently.
+  MATH 45, EEE 117; EEE 117 may be taken concurrently.
 
 Textbook:
 Lathi, B. P., Signal Processing and Linear Systems, New York: Oxford University Press, 1998.
 Learning Outcomes:
 By the end of the course, you can
-• find the output of a linear, time-invariant, continuous-time system for a given input and initial conditions.
-• find the output of a linear, time-invariant, discrete-time system for a given input and initial conditions.
-• design a realization of a linear, time-invariant, continuous-time system having a desired system transfer function.
-• design a realization of a linear, time-invariant, discrete-time system having a desired system transfer function.
-• determine the effect on a signal’s frequency spectrum of passing the signal through a linear, time-invariant, continuous-time system
+  • find the output of a linear, time-invariant, continuous-time system for a given input and initial conditions.
+  • find the output of a linear, time-invariant, discrete-time system for a given input and initial conditions.
+  • design a realization of a linear, time-invariant, continuous-time system having a desired system transfer function.
+  • design a realization of a linear, time-invariant, discrete-time system having a desired system transfer function.
+  • determine the effect on a signal’s frequency spectrum of passing the signal through a linear, time-invariant, continuous-time system
 
 Grading:
 Homework 15%
