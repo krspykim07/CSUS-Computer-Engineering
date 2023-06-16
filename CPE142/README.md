@@ -1,5 +1,4 @@
-# CSUS_CPE142
-CPE 142 - Advanced Computer Organization
+# CPE 142 - Advanced Computer Organization
 
 In this course we learn how a processor actually works. You already know what software code is, how to write code, and what logic circuits are, and how to design them to do simple functions. But what is involved in designing a logic circuit that can execute any piece of software? Welcome to the magical world of computer architecture and organization.  
 
