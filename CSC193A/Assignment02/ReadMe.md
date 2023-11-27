@@ -7,7 +7,7 @@ Problem #1.  Do the activity on https://developer.mozilla.org/en-US/docs/Learn/H
 
 Turn in your index.html file and the edits described in the link above (copied here):
 
-+ Just below the opening tag of the <body> element, add a main title for the document. This should be wrapped inside an <h1> opening tag and </h1> closing tag.
++ Just below the opening tag of the <body> element, add a main title for the document. This should be wrapped inside an `<h1>` opening tag and `</h1>` closing tag.
 + Edit the paragraph content to include text about a topic that you find interesting.
 + Make important words stand out in bold by wrapping them inside a <strong> opening tag and </strong> closing tag.
 + Add a link to your paragraph, as explained earlier in the article
